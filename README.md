@@ -1,1 +1,1 @@
-# restaurant-website
+# This is my restaurant website design project for Front End Course in COURSERA
